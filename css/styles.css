@@ -27,9 +27,10 @@ body {
 .images {
   width: auto;
   height: 200px;
-  outline: dotted pink;
+  outline: solid pink;
   margin-left: 5%;
   margin-right: 5%;
+  margin-bottom: 15px;
 }
 
 .flashy {
@@ -113,8 +114,8 @@ body {
   color: red;
 }
 
-#plane-size {
-  margin-top: 50px;
+.gif-size {
   height: 50px;
   width: auto;
 }
+
