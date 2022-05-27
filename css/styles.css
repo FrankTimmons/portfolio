@@ -10,6 +10,9 @@
   float: left;
   width: 30%;
   outline: 2px solid black;
+  background-color: white;
+  padding: 5px;
+  margin: 10px;
 }
 
 .center-text {
