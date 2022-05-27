@@ -24,6 +24,7 @@ This is a website to showcase things about me, my interests, and my best project
 ## Known Bugs
 
 * "Things that inspire me" is not centered in the screen when the window width is reduced.
+* When resizing the page, the padding for the images on the bottom will change, and you can see between the image and the border,
 
 ## License
 
