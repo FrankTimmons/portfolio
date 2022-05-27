@@ -1,5 +1,21 @@
+strong {
+  text-shadow: 2px 2px 3px white;
+}
+
+em {
+  color: green;
+}
+
+body {
+  font-family: 'Times New Roman', Times, serif;
+  background-image: url("../img/background.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
 .intro {
-  text-align: center
+  text-align: center;
+  margin: 20px;
 }
 
 .center-image-group {
@@ -61,12 +77,17 @@
   text-indent: 15px;
 }
 
-strong {
-  text-shadow: 2px 2px 3px white;
+.title-box {
+  background-color: rgb(255, 234, 238);
+  width: 500px;
+  height: auto;
+  outline: 2px solid black;
+  padding: 15px;
+  margin: auto;
+  box-sizing: border-box;
+  text-align: center;
+  display: block;
 }
-
-body {
-  background-image: url("../img/background.jpg");
-  background-repeat: no-repeat;
-  background-size: cover;
+.grid-image {
+  height: 100px;
 }
