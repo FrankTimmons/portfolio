@@ -92,8 +92,9 @@ body {
 .grid-image {
   height: 200px;
   width: auto;
-  margin: 5px;
   border: 5px solid black;
+  margin: 5px;
+  background-color: black;
 }
 
 .link:hover {
