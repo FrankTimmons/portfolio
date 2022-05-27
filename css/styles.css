@@ -2,16 +2,22 @@
   text-align: center
 }
 
-.images {
-  width: 15%;
-  height: auto;
+.center-image-group {
+  text-align: center;
   margin: auto;
   display: block;
+}
+
+.images {
+  width: auto;
+  height: 200px;
   outline: dotted pink;
+  margin-left: 5%;
+  margin-right: 5%;
 }
 
 .flashy {
-
+  color: green;
 }
 
 .column {
