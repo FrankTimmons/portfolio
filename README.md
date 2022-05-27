@@ -19,7 +19,7 @@ This is a website to showcase things about me, my interests, and my best project
 * Clone this repository to your desktop
 * Open portfolio directory
 * Open index.html in your browser
-* Alternatively, you could go to [this link.](google.com)
+* Alternatively, you could go to [this link.]https://google.com)
 
 ## Known Bugs
 
